@@ -8,9 +8,9 @@ dependencies:
     - pillow
     - tqdm
     - pip:
-        - torch
-        - torchvision
+        - torch=2.4.1
+        - torchvision=2.4.1
         - nibabel
         - einops
         - torchio
-        - segmentation-models-pytorch==0.3.2        
+        - segmentation-models-pytorch==0.3.2  
