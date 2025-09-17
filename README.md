@@ -25,7 +25,7 @@ wmh_slice = wmh_seg(slice)
 ### Cloning repository and trained model
 ```bash
 cd $HOME
-git clone https://github.com/jinghangli98/wmh_seg.git
+git clone https://github.com/euroso97/wmh_seg.git
 cd wmh_seg
 wget https://huggingface.co/jil202/wmh_seg/resolve/main/ChallengeMatched_Unet_mit_b5.pth
 
