@@ -9,7 +9,7 @@ dependencies:
     - tqdm
     - pip:
         - torch=2.4.1
-        - torchvision=2.4.1
+        - torchvision=0.19.1
         - nibabel
         - einops
         - torchio
